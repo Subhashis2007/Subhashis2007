@@ -1,4 +1,4 @@
-🖐 Hi there! 
+Hi there! 
 
 😄 I'm a 17-year-old student passionate about technology and open source.
 
