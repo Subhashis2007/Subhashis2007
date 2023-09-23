@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hi there! 
 
-<!--
-**Subhashis2007/Subhashis2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year-old student passionate about technology and open source.
 
-Here are some ideas to get you started:
+🖥️ I love exploring the world of Linux and Android, tinkering with different distributions, and customizing my devices to make them truly mine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm also on a journey to learn various programming languages, with a particular focus on C++, Python, HTML, Java.
+
+🌱 Always open to new challenges and collaborations. Let's build something amazing together! 🚀
+
+📫 Reach me at [Telegram](https://t.me/BaRaGGan01)
+
+Happy coding! 😄
