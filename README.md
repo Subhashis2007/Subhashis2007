@@ -6,6 +6,6 @@ Hi there!
 
 🌱 Always open to new challenges and collaborations. Let's build something amazing together! 🚀
 
-📫 My Email riveekssmooth@skiff.com
+📫 My Email riveeks.smooth@gmail.com
 
 Happy coding! 😄
